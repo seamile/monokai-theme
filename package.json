@@ -1,0 +1,19 @@
+{
+	"name": "theme-monokai",
+	"displayName": "Monokai Theme",
+	"description": "Monokai theme for Visual Studio Code",
+	"version": "1.0.0",
+	"publisher": "Seamile",
+	"engines": {
+		"vscode": "*"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Monokai Enhanced",
+				"uiTheme": "vs-dark",
+				"path": "./themes/monokai-enhanced-theme.json"
+			}
+		]
+	}
+}
