@@ -13,7 +13,7 @@
         "dropdown.listBackground": "#1e1f1c",
         "editor.background": "#272822",
         "editor.foreground": "#f8f8f2",
-        "editor.lineHighlightBackground": "#303030",
+        "editor.lineHighlightBackground": "#3e3d32",
         "editor.selectionBackground": "#aaaaaa80",
         "editor.selectionHighlightBackground": "#57584f80",
         "editor.wordHighlightBackground": "#4a4a7680",
@@ -30,6 +30,7 @@
         "editorLineNumber.foreground": "#57584f",
         "editorSuggestWidget.background": "#272822",
         "editorSuggestWidget.border": "#75715E",
+        "editorSuggestWidget.selectedBackground": "#414339",
         "editorWhitespace.foreground": "#464741",
         "editorWidget.background": "#1e1f1c",
         "focusBorder": "#75715E",
@@ -43,7 +44,7 @@
         "inputValidation.warningBorder": "#e2e22e",
         "list.activeSelectionBackground": "#75715E",
         "list.dropBackground": "#1d1e19",
-        "list.focusBackground": "#272821",
+        "list.focusBackground": "#272822",
         "list.highlightForeground": "#f8f8f2",
         "list.hoverBackground": "#303030",
         "list.inactiveSelectionBackground": "#303030",
@@ -118,7 +119,7 @@
             "name": "Comment",
             "scope": [
                 "comment",
-                "comment punctuation",
+                "comment punctuation"
             ],
             "settings": {
                 "fontStyle": "",
