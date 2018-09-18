@@ -61,7 +61,7 @@
         "peekViewTitle.background": "#1e1f1c",
         "pickerGroup.foreground": "#75715E",
         "progressBar.background": "#75715E",
-        "selection.background": "#3b3c35",
+        "selection.background": "#ccccc7",
         "settings.numberInputBackground": "#32342d",
         "settings.textInputBackground": "#32342d",
         "sideBar.background": "#1e1f1c",
@@ -430,8 +430,7 @@
         },
         {
             "scope": [
-                "meta.function-call",
-                "meta.function-call.arguments meta.function-call"
+                "meta.function-call"
             ],
             "settings": {
                 "foreground": "#66D9EF"
@@ -439,7 +438,16 @@
         },
         {
             "scope": [
+                "meta.function-call.arguments"
+            ],
+            "settings": {
+                "foreground": "#f8f8f2"
+            }
+        },
+        {
+            "scope": [
                 "variable.language",
+                "variable.parameter.function.language.special.cls.python",
                 "variable.parameter.function.language.special.self.python"
             ],
             "settings": {
