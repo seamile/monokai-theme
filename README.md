@@ -9,7 +9,11 @@ Monokai theme for VS Code
 
     ```bash
     $ cd ~/.vscode/extensions
-    $ git clone git@github.com:seamile/monokai-enhanced-theme.git
+    $ git clone https://github.com/seamile/monokai-theme.git
     ```
 2. reopen your vscode
 3. choose the "Monokai Enhanced" theme
+
+# Snap Screen
+
+![snapscreen](./snapscreen.png)
