@@ -69,7 +69,7 @@
         "sideBarSectionHeader.background": "#272822",
         "statusBar.background": "#1d1e19",
         "statusBar.foreground": "#6e7066",
-        "statusBar.debuggingBackground": "#75715E",
+        "statusBar.debuggingBackground": "#1d1e19",
         "statusBar.noFolderBackground": "#1d1e19",
         "tab.activeBackground": "#303129",
         "tab.activeBorder": "#e4db73",
