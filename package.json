@@ -1,8 +1,9 @@
 {
-	"name": "theme-monokai",
-	"displayName": "Monokai Theme",
-	"description": "Monokai theme for Visual Studio Code",
+	"name": "monokai-enhanced",
+	"displayName": "Monokai Enhanced Theme",
+	"description": "Monokai enhanced theme for Visual Studio Code",
 	"version": "1.0.0",
+    "icon": "icon.png",
 	"publisher": "Seamile",
 	"engines": {
 		"vscode": "*"
@@ -15,5 +16,9 @@
 				"path": "./themes/monokai-enhanced-theme.json"
 			}
 		]
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/seamile/monokai-theme"
 	}
 }

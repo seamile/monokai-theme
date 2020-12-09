@@ -3,7 +3,7 @@
 Monokai theme for VS Code
 
 
-# Install
+# Install from source
 
 1. clone the code
 
