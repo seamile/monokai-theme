@@ -3,7 +3,13 @@
 Monokai theme for VS Code
 
 
-# Install from source
+## Install from marketplace
+
+1. Go to [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=Seamile.monokai-enhanced)
+2. Click on the "Install" button
+
+
+## Install from source
 
 1. clone the code
 
@@ -14,6 +20,7 @@ Monokai theme for VS Code
 2. reopen your vscode
 3. choose the "Monokai Enhanced" theme
 
-# Snap Screen
+
+##  Snap Screen
 
 ![snapscreen](./snapscreen.png)

@@ -2,7 +2,7 @@
 	"name": "monokai-enhanced",
 	"displayName": "Monokai Enhanced Theme",
 	"description": "Monokai enhanced theme for Visual Studio Code",
-	"version": "1.0.0",
+	"version": "1.0.1",
     "icon": "icon.png",
 	"publisher": "Seamile",
 	"engines": {
