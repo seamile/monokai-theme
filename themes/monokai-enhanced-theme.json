@@ -61,7 +61,7 @@
         "peekViewTitle.background": "#1e1f1c",
         "pickerGroup.foreground": "#75715E",
         "progressBar.background": "#75715E",
-        "selection.background": "#ccccc7",
+        "selection.background": "#575757",
         "settings.numberInputBackground": "#32342d",
         "settings.textInputBackground": "#32342d",
         "sideBar.background": "#1e1f1c",
