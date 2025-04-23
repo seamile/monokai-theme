@@ -1,3 +1,4 @@
 *.vsix
 *.bak.json
 .DS_Store
+.vscode/*

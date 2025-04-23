@@ -33,8 +33,9 @@
         "editorSuggestWidget.selectedBackground": "#414339",
         "editorWhitespace.foreground": "#464741",
         "editorWidget.background": "#1e1f1c",
-        "focusBorder": "#75715E",
-        "input.background": "#1d1e19",
+        "contrastBorder": "#272822",
+        "focusBorder": "#367C9A",
+        "input.background": "#000000",
         "inputOption.activeBorder": "#75715E",
         "inputValidation.errorBackground": "#90274A",
         "inputValidation.errorBorder": "#f92672",
@@ -48,7 +49,7 @@
         "list.highlightForeground": "#f8f8f2",
         "list.hoverBackground": "#303030",
         "list.inactiveSelectionBackground": "#303030",
-        "panel.border": "#1d1e19",
+        "panel.border": "#367C9A",
         "panelTitle.activeBorder": "#75715E",
         "panelTitle.activeForeground": "#f8f8f2",
         "panelTitle.inactiveForeground": "#75715E",
@@ -74,7 +75,7 @@
         "tab.activeBackground": "#303129",
         "tab.activeBorder": "#e4db73",
         "tab.activeForeground": "#e4db73",
-        "tab.border": "#303129",
+        "tab.border": "#272822",
         "tab.hoverBackground": "#303129",
         "tab.hoverBorder": "#57584f",
         "tab.inactiveBackground": "#1d1e19",
@@ -106,10 +107,7 @@
             }
         },
         {
-            "scope": [
-                "meta.embedded",
-                "source.groovy.embedded"
-            ],
+            "scope": ["meta.embedded", "source.groovy.embedded"],
             "settings": {
                 "background": "#272822",
                 "foreground": "#F8F8F2"
@@ -117,10 +115,7 @@
         },
         {
             "name": "Comment",
-            "scope": [
-                "comment",
-                "comment punctuation"
-            ],
+            "scope": ["comment", "comment punctuation"],
             "settings": {
                 "fontStyle": "",
                 "foreground": "#75715E"
@@ -135,19 +130,14 @@
         },
         {
             "name": "Template Definition",
-            "scope": [
-                "punctuation.definition.template-expression",
-                "punctuation.section.embedded"
-            ],
+            "scope": ["punctuation.definition.template-expression", "punctuation.section.embedded"],
             "settings": {
                 "foreground": "#F92672"
             }
         },
         {
             "name": "Reset JavaScript string interpolation expression",
-            "scope": [
-                "meta.template.expression"
-            ],
+            "scope": ["meta.template.expression"],
             "settings": {
                 "foreground": "#F8F8F2"
             }
@@ -429,17 +419,13 @@
             }
         },
         {
-            "scope": [
-                "meta.function-call"
-            ],
+            "scope": ["meta.function-call"],
             "settings": {
                 "foreground": "#66D9EF"
             }
         },
         {
-            "scope": [
-                "meta.function-call.arguments"
-            ],
+            "scope": ["meta.function-call.arguments"],
             "settings": {
                 "foreground": "#f8f8f2"
             }
