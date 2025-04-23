@@ -1,7 +1,8 @@
 # Monokai Enhanced Theme
 
-Monokai theme for VS Code
+![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/Seamile.monokai-enhanced)
 
+A Monokai theme for VS Code. It is simple, intuitive and beautiful.
 
 ## Install from marketplace
 

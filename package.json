@@ -1,24 +1,24 @@
 {
-	"name": "monokai-enhanced",
-	"displayName": "Monokai Enhanced Theme",
-	"description": "Monokai enhanced theme for Visual Studio Code",
-	"version": "1.0.2",
+    "name": "monokai-enhanced",
+    "displayName": "Monokai Enhanced Theme",
+    "description": "Monokai enhanced theme for Visual Studio Code",
+    "version": "1.1.0",
     "icon": "icon.png",
-	"publisher": "Seamile",
-	"engines": {
-		"vscode": "*"
-	},
-	"contributes": {
-		"themes": [
-			{
-				"label": "Monokai Enhanced",
-				"uiTheme": "vs-dark",
-				"path": "./themes/monokai-enhanced-theme.json"
-			}
-		]
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/seamile/monokai-theme"
-	}
+    "publisher": "Seamile",
+    "engines": {
+        "vscode": "*"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Monokai Enhanced",
+                "uiTheme": "vs-dark",
+                "path": "./themes/monokai-enhanced-theme.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/seamile/monokai-theme"
+    }
 }
